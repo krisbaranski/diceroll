@@ -2,4 +2,4 @@
 
 Using Javascript, Css and Html.
 
-![diceroll-game-flowchart.png](flowchart)
+![flowchart](diceroll-game-flowchart.png)
