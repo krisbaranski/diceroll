@@ -1,5 +1,7 @@
 # Dice Roll Game
 
-Using Javascript, Css and Html.
+Javascript, Css and Html.
+
+## Game Logic
 
 ![flowchart](diceroll-game-flowchart.png)
